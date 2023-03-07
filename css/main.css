@@ -1,14 +1,15 @@
 <style>
-h1 {
-  color: rgb(242,211,131);
-  font-size: 40pt;
-}
+
 h2 {
   color: rgb(79,116,139);
   font-size: 38pt;
 }
+h1 {
+  color: rgb(79,116,139);
+  font-size: 40pt;
+}
 body {
-  background-color: lightgray;
+  background-color: lightgrey;
 }
 img {
   height: 200px;
