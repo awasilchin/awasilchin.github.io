@@ -1,12 +1,11 @@
 <style>
-
-h2 {
-  color: rgb(79,116,139);
-  font-size: 38pt;
-}
 h1 {
   color: rgb(1,45,91);
   font-size: 40pt;
+}
+h2 {
+  color: rgb(79,116,139);
+  font-size: 38pt;
 }
 body {
   background-color: lightgrey;
