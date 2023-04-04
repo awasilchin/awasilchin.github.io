@@ -10,4 +10,7 @@ h2 {
 h3 {
   font-style: underline;
 }
+body {
+  background-color: lightgrey;
+}
 </style>
