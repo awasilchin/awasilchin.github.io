@@ -19,4 +19,16 @@ body {
 p {
   font-style: italic;
 }
+#contactinfo {
+  border: 4px solid grey;
+}
+#education {
+  border: 4px solid grey;
+}
+#experience {
+  border: 4px solid grey;
+}
+#skills {
+  border: 4px solid grey;
+}
 </style>
