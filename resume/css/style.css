@@ -1,8 +1,7 @@
 <style>
-h4 {
-  font-size: 2px;
+img {
+  height: 100px;
 }
-
 h1 {
   color: rgb(1,45,91);
   font-size: 45pt;
@@ -19,8 +18,5 @@ body {
 }
 p {
   font: bold, italics;
-}
-img {
-  height: 100px;
 }
 </style>
