@@ -21,14 +21,18 @@ p {
 }
 #contactinfo {
   border: 4px solid grey;
+  margin: 2px;
 }
 #education {
   border: 4px solid grey;
+  margin: 2px;
 }
 #experience {
   border: 4px solid grey;
+  margin: 2px;
 }
 #skills {
   border: 4px solid grey;
+  margin: 2px;
 }
 </style>
