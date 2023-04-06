@@ -17,6 +17,7 @@ body {
   background-color: lightgrey;
 }
 p {
-  font: bold, italics;
+  font-style: bold;
+  font-style: italics;
 }
 </style>
