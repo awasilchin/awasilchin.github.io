@@ -1,6 +1,6 @@
 <style>
 img {
-  height: 100px;
+  height: 125px;
 }
 h1 {
   color: rgb(1,45,91);
@@ -18,8 +18,5 @@ body {
 }
 p {
   font-style: italic;
-}
-img {
-  float: right;
 }
 </style>
