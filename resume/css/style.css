@@ -39,7 +39,7 @@ nav {
   font-color: rgb(1,45,91);
   border: 4px solid grey;
 }
-.container-fluid {
+.col-md {
   font-size: 25pt;
 }
 </style>
