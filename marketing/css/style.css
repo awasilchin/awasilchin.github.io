@@ -18,6 +18,13 @@ h1 {
 	font-size: 3.5rem;
 	margin: 0 0 0.2em 0
 }
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
 
 
 
