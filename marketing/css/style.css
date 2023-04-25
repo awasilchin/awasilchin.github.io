@@ -19,14 +19,12 @@ h3 {
 table {
 	text-align: center;
 	table-layout: fixed;
+	width: 80%;
 }
 table, th, td {
         border: 4px solid;
         border-collapse: collapse;
 }
-table {
-        width: 100%;
-      }
 th {
         font-style: bold;
       }
